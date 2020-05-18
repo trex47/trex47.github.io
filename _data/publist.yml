@@ -1,10 +1,42 @@
+- title: "Excited State Dynamics of cis,cis-1,3-Cyclooctadiene<span>&#58;</span>
+ UV Pump VUV Probe Time Resolved Photoelectron Spectroscopy"
+  image: 
+  description: 
+  authors: Yusong Liu, Pratip Chakraborty, Spiridoula Matsika and Thomas Weinacht 
+  link:
+    url: 
+    display:  J. Chem. Phys., <i>submitted</i> (2019)
+  highlight: 0
+  news2:
+
+- title: "Excited State Dynamics of cis,cis-1,3-Cyclooctadiene<span>&#58;</span> Non-adiabatic Trajectory Surface Hopping"
+  image: 
+  description: 
+  authors: Pratip Chakraborty, Yusong Liu, Thomas Weinacht, and Spiridoula Matsika
+  link:
+    url: https://aip.scitation.org/doi/10.1063/5.0005558
+    display:  J. Chem. Phys., 152, 174302 (2020)
+  highlight: 0
+  news2:
+
+- title: "The Generality of the GUGA MRCI Approach in COLUMBUS for Treating Complex Quantum
+Chemistry"
+  image:
+  description:
+  authors: Hans Lischka, Ron Shepard, Thomas Muller, Peter G. Szalay, Russel M. Pitzer, Adelia J. A. Aquino, Mayzza M. Araujo do Nascimento, Mario Barbatti, Lachlan T. Belcher, Itamar Borges Jr., Scott R. Brozell, Anita Das, Silmar A. do Monte, Leticia Gonzalez, William L. Hase, Gary Kedziora, Fabris Kossoski, Francisco B. C. Machado, Spiridoula Matsika, Dana Nachtigallova, Reed Nieman, Markus Oppel, Felix Plasser, Rene F. K. Spada, Eric A. Stahlberg, Elizete Ventura, David R. Yarkony
+  link:
+    url: https://aip.scitation.org/doi/abs/10.1063/1.5144267?journalCode=jcp
+    display:  J. Chem. Phys., 152, 134110 (2020)
+  highlight: 0
+  news2:
+
 - title: "Comparative study of methodologies for calculating metastable states of small to medium-sized molecules"
   image: 
   description: 
   authors: Mushir Thodika, Mark Fennimore, Tolga N.V. Karsili and Spiridoula Matsika
   link:
-    url: 
-    display:  J. Chem. Phys., submitted, 2019
+    url: https://aip.scitation.org/doi/10.1063/1.5134700
+    display:  J. Chem. Phys., 151, 244104 (2019)
   highlight: 0
   news2:
 
@@ -13,8 +45,8 @@
   description: 
   authors: Chuan Cheng, Patricia Vindel Zandbergen, Spiridoula Matsika, and Thomas Weinacht 
   link:
-    url: https://journals.aps.org/pra/accepted/2e07eN79Tbf1c11328e86af24b76ebc0d61ad0150
-    display:  Phys. Rev. A, accepted (2019)
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.053405
+    display:  Phys. Rev. A, 100, 053405 (2019)
   highlight: 0
   news2:
 

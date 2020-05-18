@@ -11,12 +11,12 @@ Jump to: [Temple](#temple), [Philadelphia](#philadelphia)
 
 ## Temple
 
-#### Current Group: Spring 2019
+#### Current Group: Spring 2020
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>-->
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/IMG_4610.jpg" width="60%" class="imagesize img-responsive center-block" />
-  <figcaption> (from left to right) Patricia, Pratip, Spiridoula, Salsabil, Mushir and Mohammed. 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/group photo" width="60%" class="imagesize img-responsive center-block" />
+  <figcaption> (from left to right) Vince, Cate, Spiridoula, Mohammed, Pratip, Cam, Mushir, Vaibhav, Salsabil and Drew.
   </figcaption>
 </figure>
 

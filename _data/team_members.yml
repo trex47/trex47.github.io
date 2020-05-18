@@ -1,3 +1,17 @@
+- name: Dr. Vince Spata
+  photo: vince.png
+  info: Postdoc, started March 2020
+  email: vspata27@gmail.com
+  number_educ: 1
+  education1: Ph.D in Physical Chemistry, Temple University, Philadelphia, USA (2016)
+
+- name: Dr. Cate Anst<span>&#246;</span>ter
+  photo: cate.jpeg
+  info: Postdoc, started Jan 2020
+  email: csanstoter@gmail.com
+  number_educ: 1
+  education1: Ph.D in Physical Chemistry, Durham University, UK (2019)
+
 - name: Pratip Chakraborty
   photo: pratip.jpeg
   info: PhD student, started Aug 2015
