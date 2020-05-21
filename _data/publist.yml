@@ -10,13 +10,13 @@
   news2:
 
 - title: "Excited State Dynamics of cis,cis-1,3-Cyclooctadiene<span>&#58;</span> Non-adiabatic Trajectory Surface Hopping"
-  image: 
-  description: 
+  image: pratip-cod.jpeg
+  description: We have performed trajectory surface hopping dynamics for cis,cis-1,3-cyclooctadiene to investigate the photochemical pathways involved after being excited to the S1 state. Our calculations reveal ultrafast decay to the ground state, facilitated by conical intersections involving distortions around the double bonds. The main distortions are localized on one double bond, involving twisting and pyramidalization of one of the carbons of that double bond (similar to ethylene), while a limited number of trajectories decay via delocalized (non-local) twisting of both double bonds. The interplay between local and non-local distortions is important in our understanding of photoisomerization in conjugated systems. The calculations show that a broad range of the conical intersection seam space is accessed during the non-adiabatic events. Several products formed on the ground state have also been observed.
   authors: Pratip Chakraborty, Yusong Liu, Thomas Weinacht, and Spiridoula Matsika
   link:
     url: https://aip.scitation.org/doi/10.1063/5.0005558
     display:  J. Chem. Phys., 152, 174302 (2020)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "The Generality of the GUGA MRCI Approach in COLUMBUS for Treating Complex Quantum
@@ -66,7 +66,7 @@ Chemistry"
   authors: Wook Lee and Spiridoula Matsika
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2019/fd/c8fd00184g#!divAbstract
-    display:  Faraday Discussions, accepted, (2018)
+    display:  Faraday Discussions, 216, 507-519 (2018)
   highlight: 1
   news2:
 
